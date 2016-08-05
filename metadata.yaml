@@ -1,0 +1,37 @@
+_repo: Sketches-New-and-Old-Part-1._5836
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5836/5836-h/images/bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'My watch: an instructive little tale -- Political economy -- The
+  jumping frog -- Journalism in Tennessee -- The story of the bad little boy -- The
+  story of the good little boy -- A couple of poems by Twain and Moore -- Niagara.'
+title: Sketches New and Old, Part 1.
+url: http://www.gutenberg.org/ebooks/5836
